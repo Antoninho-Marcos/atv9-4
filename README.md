@@ -1,5 +1,5 @@
-Projeto de um conversor de euro usando Git Descrição: Este é um projeto simples de conversor de euro que utiliza uma API para obter as taxas de câmbio em tempo real. Objetivo: O objetivo deste projeto é demonstrar o uso do Git para controle de versão e organização em um projeto de software, além de criar uma ferramenta funcional para conversão de moedas. Funcionalidades Planejadas:
-
+Projeto de um conversor de euro usando Git Descrição: Este é um projeto simples de conversor de euro que utiliza uma API para obter as taxas de câmbio em tempo real. Objetivo: O objetivo deste projeto é demonstrar o uso do Git para controle de versão e organização em um projeto de software, além de criar uma ferramenta funcional para conversão de moedas. 
+Funcionalidades Planejadas:
 Entrada do valor a ser convertido e escolha da moeda de origem e destino.
 Integração com uma API para obter taxas de câmbio.
 Exibição do resultado da conversão.
